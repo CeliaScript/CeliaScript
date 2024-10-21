@@ -1,5 +1,6 @@
-
-![CeliaScript](https://github.com/user-attachments/assets/9b52d580-dbd0-4737-affa-95aec42a8b26)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9b52d580-dbd0-4737-affa-95aec42a8b26" alt="CeliaScript" />
+</div>
 
 ###
 
