@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/8d630fd6-9387-426d-bbe5-29a6ab216aa5" alt="tenor - copia" />
 </div>
 
-![tenor - copia](https://github.com/user-attachments/assets/8d630fd6-9387-426d-bbe5-29a6ab216aa5)
+![CeliaScript](https://github.com/user-attachments/assets/a7f163f2-7781-46c5-8e31-c6ff4a30ad66)
 
 ###
 
