@@ -3,7 +3,7 @@
 </div>
 
 <div align = 'center'>
-  ![CeliaScript](https://github.com/user-attachments/assets/a7f163f2-7781-46c5-8e31-c6ff4a30ad66)
+  <img = ![CeliaScript](https://github.com/user-attachments/assets/a7f163f2-7781-46c5-8e31-c6ff4a30ad66)>
 
 ###
 
