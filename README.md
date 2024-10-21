@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="(https://github.com/user-attachments/assets/a7f163f2-7781-46c5-8e31-c6ff4a30ad66)" alt="tenor - copia" />
-</div>
+
+![CeliaScript](https://github.com/user-attachments/assets/9b52d580-dbd0-4737-affa-95aec42a8b26)
 
 ###
 
